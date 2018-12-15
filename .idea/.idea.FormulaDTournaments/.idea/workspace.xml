@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="511c22e3-f6a8-42be-99e8-7072aa0b8ae4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1412022942">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="144" />
+          <entry key="css" value="5" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="5" />
+          <entry key="js" value="125" />
+          <entry key="json" value="11" />
+          <entry key="md" value="1" />
+          <entry key="targets" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="144" />
+          <entry key="CSS" value="5" />
+          <entry key="Git file" value="1" />
+          <entry key="HTML" value="5" />
+          <entry key="JSON" value="11" />
+          <entry key="JavaScript" value="125" />
+          <entry key="Markdown" value="1" />
+          <entry key="MsBuild targets file" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="9443" />
+          <entry key="css" value="476" />
+          <entry key="html" value="4" />
+          <entry key="js" value="24831" />
+          <entry key="json" value="108" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="9443" />
+          <entry key="CSS" value="476" />
+          <entry key="HTML" value="4" />
+          <entry key="JSON" value="108" />
+          <entry key="JavaScript" value="24831" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClientApp/src/components/Race.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClientApp/src/store/Racers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClientApp/src/store/Tournament.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Controllers/RacerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="19" column="81" selection-start-line="19" selection-start-column="81" selection-end-line="19" selection-end-column="81" />
+              <folding>
+                <marker date="1544841744433" expanded="true" signature="6:99" ph="..." />
+                <marker date="1544841744433" expanded="true" signature="142:636" ph="{...}" />
+                <marker date="1544841744433" expanded="true" signature="231:634" ph="{...}" />
+                <marker date="1544841744433" expanded="true" signature="348:406" ph="{...}" />
+                <marker date="1544841744433" expanded="true" signature="470:630" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stores/StoreFactory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+              <folding>
+                <marker date="1544841499816" expanded="true" signature="74:628" ph="{...}" />
+                <marker date="1544841499816" expanded="true" signature="109:233" ph="{...}" />
+                <marker date="1544841499816" expanded="true" signature="279:626" ph="{...}" />
+                <marker date="1544841499816" expanded="true" signature="382:420" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stores/RacerStore.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+              <folding>
+                <marker date="1544841349480" expanded="true" signature="6:140" ph="..." />
+                <marker date="1544841349480" expanded="true" signature="178:797" ph="{...}" />
+                <marker date="1544841349480" expanded="true" signature="211:286" ph="{...}" />
+                <marker date="1544841349480" expanded="true" signature="339:795" ph="{...}" />
+                <marker date="1544841349480" expanded="true" signature="410:422" ph="{...}" />
+                <marker date="1544841349480" expanded="true" signature="463:660" ph="{...}" />
+                <marker date="1544841349480" expanded="true" signature="523:654" ph="{...}" />
+                <marker date="1544841349480" expanded="true" signature="700:791" ph="{...}" />
+                <marker date="1544841349480" expanded="true" signature="760:785" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClientApp/src/components/CreatePlayerModal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClientApp/src/components/ViewRace.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="66" column="47" selection-start-line="66" selection-start-column="47" selection-end-line="66" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controllers/RaceController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="38" />
+              <folding>
+                <marker date="1543451136951" expanded="false" signature="6:118" ph="..." />
+                <marker date="1543451136951" expanded="true" signature="161:967" ph="{...}" />
+                <marker date="1543451136951" expanded="true" signature="249:965" ph="{...}" />
+                <marker date="1543451136951" expanded="true" signature="373:429" ph="{...}" />
+                <marker date="1543451136951" expanded="true" signature="485:657" ph="{...}" />
+                <marker date="1543451136951" expanded="true" signature="558:615" ph="{...}" />
+                <marker date="1543451136951" expanded="true" signature="749:961" ph="{...}" />
+                <marker date="1543451136951" expanded="true" signature="836:913" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/Entity/TournamentStanding.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <marker date="1544114291057" expanded="true" signature="56:338" ph="{...}" />
+                <marker date="1544114291057" expanded="true" signature="92:336" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>//</find>
+      <find>(/*.*/)</find>
+      <find>(\/\*.*\/)</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Stores/RacerStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Extensions/RaceQueries.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/Racer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/FormulaDContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77D1AF87-8F36-4D40-92FE-40FE59256B81/ea/b776a2cc/ControllerActionInvoker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/RacerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stores/StoreFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stores/StoreBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/ControllerBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/05/1521d40e/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/f2/9abb3a9b/Thread.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stores/TournamentStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Entity/Configuration/TurnConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Entity/Turn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Entity/Configuration/RaceConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Entity/Configuration/RacerConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Entity/Race.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Extensions/TournamentStandingQueries.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Entity/Configuration/TournamentConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Entity/Tournament.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Entity/Racer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Extensions/TournamentQueries.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Entity/TournamentStanding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Entity/Configuration/TournamentStandingConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/TournamentController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/RaceController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Entity/RaceStanding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Stores/RaceStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Entity/Configuration/RaceStandingConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ClientApp/src/store/Async.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/History.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/CreateTournament.js" />
+        <option value="$PROJECT_DIR$/Controllers/RaceController.cs" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/CreateRace.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/Tournament.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/SearchField.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/caricons.css" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/NumberSpinnerField.js" />
+        <option value="$PROJECT_DIR$/Data/Extensions/TournamentExtensions.cs" />
+        <option value="$PROJECT_DIR$/ClientApp/src/store/Tournament.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/NavMenu.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/index.css" />
+        <option value="$PROJECT_DIR$/ClientApp/src/App.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/RadioNumbering.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/TurnModal.js" />
+        <option value="$PROJECT_DIR$/Data/RaceStanding.cs" />
+        <option value="$PROJECT_DIR$/Data/Entity/Turn.cs" />
+        <option value="$PROJECT_DIR$/Data/Entity/Configuration/RacerConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Data/Extensions/RacerQueries.cs" />
+        <option value="$PROJECT_DIR$/Data/Extensions/TournamentRacerQueries.cs" />
+        <option value="$PROJECT_DIR$/Data/Entity/TournamentStanding.cs" />
+        <option value="$PROJECT_DIR$/Data/Entity/Configuration/TournamentStandingConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Data/Entity/Configuration/TurnConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Data/Entity/Configuration/TournamentConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Data/Entity/Configuration/RaceConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Data/Entity/RaceStanding.cs" />
+        <option value="$PROJECT_DIR$/Data/Extensions/TournamentStandingQueries.cs" />
+        <option value="$PROJECT_DIR$/Data/Extensions/TournamentQueries.cs" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/Home.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/index.js" />
+        <option value="$PROJECT_DIR$/Data/Entity/Configuration/RaceStandingConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Data/FormulaDContext.cs" />
+        <option value="$PROJECT_DIR$/Stores/TournamentStore.cs" />
+        <option value="$PROJECT_DIR$/Data/Extensions/RaceQueries.cs" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/ViewTournament.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/store/configureStore.js" />
+        <option value="$PROJECT_DIR$/Stores/RaceStore.cs" />
+        <option value="$PROJECT_DIR$/Controllers/TournamentController.cs" />
+        <option value="$PROJECT_DIR$/ClientApp/src/store/Race.js" />
+        <option value="$PROJECT_DIR$/Data/Entity/Race.cs" />
+        <option value="$PROJECT_DIR$/Data/Entity/Racer.cs" />
+        <option value="$PROJECT_DIR$/Data/Entity/Tournament.cs" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/ViewRace.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/Race.js" />
+        <option value="$PROJECT_DIR$/Models/Racer.cs" />
+        <option value="$PROJECT_DIR$/ClientApp/src/store/Racers.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/components/CreatePlayerModal.js" />
+        <option value="$PROJECT_DIR$/Stores/RacerStore.cs" />
+        <option value="$PROJECT_DIR$/Stores/StoreFactory.cs" />
+        <option value="$PROJECT_DIR$/Controllers/RacerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ClientApp/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ClientApp/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="991" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ClientApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ClientApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ClientApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="store" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="FormulaDTournaments" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Stores" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/cosmo/Repositories/FormulaDTournaments/ClientApp/public/index.html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/ClientApp/src/components/Tournament.js&#10;/Users/cosmo/Repositories/FormulaDTournaments/ClientApp/src/components/ViewTournament.js&#10;/Users/cosmo/Repositories/FormulaDTournaments/ClientApp/src/components/CreateRace.js&#10;/Users/cosmo/Repositories/FormulaDTournaments/ClientApp/src/components/ViewRace.js" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/FormulaDTournaments.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FormulaDTournaments.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="https://localhost:5001" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="511c22e3-f6a8-42be-99e8-7072aa0b8ae4" name="Default Changelist" comment="" />
+      <created>1542058686492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542058686492</updated>
+      <workItem from="1542058688900" duration="36012000" />
+      <workItem from="1542589516615" duration="26516000" />
+      <workItem from="1542852967838" duration="33815000" />
+      <workItem from="1543424900177" duration="84766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="181109000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="991" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1941392" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" />
+      <window_info anchor="bottom" id="RNConsole" order="2" />
+      <window_info anchor="bottom" id="REST Client" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32925472" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32925472" />
+      <window_info anchor="bottom" id="NuGet" order="9" weight="0.32925472" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.39933258" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" weight="0.32925472" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="LuaJ" order="2" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" order="3" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Controllers/RacerController.cs</url>
+          <line>22</line>
+          <properties documentPath="$PROJECT_DIR$/Controllers/RacerController.cs" initialLine="13">
+            <startOffsets>
+              <option value="588" />
+            </startOffsets>
+            <endOffsets>
+              <option value="624" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>ctx.DbSet&lt;Race&gt;()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ctx.Set&lt;Race&gt;().Where(r =&gt; r.TournamentId.Equals(tournamentId))</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ctx.Set&lt;Tournament&gt;().Where(t =&gt; t.Id == tournamentId)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ctx.Set&lt;Tournament&gt;().Where(t =&gt; t.Id.Equals(tournamentId))</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>_tournamentStore.FindByPartialName(term)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Json.parse(obj.ToString())</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Json.parse(obj)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>id.</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:;System.Collections.Immutable;System.Collections.Immutable</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Json(id)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:;System.Collections.Immutable;System.Collections.Immutable</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>id.ToString()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/History.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/components/NavMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/components/RadioNumbering.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/components/TurnModal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Entity/Configuration/TournamentStandingConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+          <folding>
+            <marker date="1544027743242" expanded="false" signature="6:91" ph="..." />
+            <marker date="1544027743242" expanded="true" signature="148:447" ph="{...}" />
+            <marker date="1544027743242" expanded="true" signature="243:445" ph="{...}" />
+            <marker date="1544027743242" expanded="true" signature="320:441" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Entity/Configuration/TurnConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="38" selection-start-line="12" selection-start-column="6" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <marker date="1544114436586" expanded="false" signature="6:91" ph="..." />
+            <marker date="1544114436586" expanded="true" signature="148:587" ph="{...}" />
+            <marker date="1544114436586" expanded="true" signature="215:585" ph="{...}" />
+            <marker date="1544114436586" expanded="true" signature="278:581" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Entity/Configuration/RacerConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="41" selection-start-line="13" selection-start-column="8" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <marker date="1544110334054" expanded="false" signature="6:91" ph="..." />
+            <marker date="1544110334054" expanded="true" signature="148:745" ph="{...}" />
+            <marker date="1544110334054" expanded="true" signature="217:743" ph="{...}" />
+            <marker date="1544110334054" expanded="true" signature="281:739" ph="{...}" />
+            <marker date="1544110334054" expanded="true" signature="361:733" ph="/* builder.HasMany(r =&gt; r.Turns) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Entity/Configuration/RaceConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="40" selection-start-line="12" selection-start-column="6" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <marker date="1544114436611" expanded="false" signature="6:91" ph="..." />
+            <marker date="1544114436611" expanded="true" signature="148:596" ph="{...}" />
+            <marker date="1544114436611" expanded="true" signature="215:594" ph="{...}" />
+            <marker date="1544114436611" expanded="true" signature="278:590" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Extensions/TournamentStandingQueries.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1544139972085" expanded="false" signature="6:71" ph="..." />
+            <marker date="1544139972085" expanded="true" signature="118:532" ph="{...}" />
+            <marker date="1544139972085" expanded="true" signature="168:530" ph="{...}" />
+            <marker date="1544139972085" expanded="true" signature="301:381" ph="{...}" />
+            <marker date="1544139972085" expanded="true" signature="471:526" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Extensions/TournamentQueries.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1544040798145" expanded="true" signature="6:57" ph="..." />
+            <marker date="1544040798145" expanded="true" signature="104:325" ph="{...}" />
+            <marker date="1544040798145" expanded="true" signature="146:323" ph="{...}" />
+            <marker date="1544040798145" expanded="true" signature="253:319" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/components/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <folding>
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#42#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#35#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+              <element signature="e#0#28#0" expanded="true" />
+              <element signature="e#0#28#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Entity/Configuration/TournamentConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="15" column="46" selection-start-line="13" selection-start-column="6" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <marker date="1544114436535" expanded="false" signature="6:91" ph="..." />
+            <marker date="1544114436535" expanded="true" signature="148:527" ph="{...}" />
+            <marker date="1544114436535" expanded="true" signature="227:525" ph="{...}" />
+            <marker date="1544114436535" expanded="true" signature="296:521" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Entity/Configuration/RaceStandingConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <marker date="1544150023673" expanded="false" signature="6:91" ph="..." />
+            <marker date="1544150023673" expanded="true" signature="148:431" ph="{...}" />
+            <marker date="1544150023673" expanded="true" signature="231:429" ph="{...}" />
+            <marker date="1544150023673" expanded="true" signature="302:425" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/FormulaDContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <marker date="1544150623254" expanded="false" signature="6:236" ph="..." />
+            <marker date="1544150623254" expanded="true" signature="272:998" ph="{...}" />
+            <marker date="1544150623254" expanded="true" signature="316:996" ph="{...}" />
+            <marker date="1544150623254" expanded="true" signature="389:401" ph="{...}" />
+            <marker date="1544150623254" expanded="true" signature="477:992" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/05/1521d40e/ExecutionContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77D1AF87-8F36-4D40-92FE-40FE59256B81/ea/b776a2cc/ControllerActionInvoker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="237" column="8" selection-start-line="237" selection-start-column="8" selection-end-line="237" selection-end-column="8" />
+          <folding>
+            <marker date="1544204130739" expanded="true" signature="0:380" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1544204130739" expanded="false" signature="388:799" ph="..." />
+            <marker date="1544204130739" expanded="true" signature="844:14718" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="919:14716" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="1583:1775" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="1825:1903" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="1841:1897" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="1951:2144" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="2288:9313" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="2314:9307" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="2795:2906" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="3209:3627" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="3673:4085" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="4789:4904" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="5147:5535" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="5417:5522" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="6526:6982" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="6801:6906" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="6997:7331" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="7130:7252" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="8237:8347" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="8523:8909" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="8770:8825" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="9367:10234" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="9445:9859" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="9886:10228" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="10140:10219" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="10318:10762" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="10812:12556" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="11659:12364" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="12378:12550" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="12616:12966" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="13030:13279" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="13318:13670" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="13805:14447" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="14087:14418" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="14471:14512" ph="{...}" />
+            <marker date="1544204130739" expanded="true" signature="14536:14712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/components/ViewTournament.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="89" column="46" selection-start-line="89" selection-start-column="46" selection-end-line="89" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/store/configureStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stores/TournamentStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+          <folding>
+            <marker date="1544203006945" expanded="false" signature="6:217" ph="..." />
+            <marker date="1544203006945" expanded="true" signature="255:2066" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="293:575" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="639:2064" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="712:724" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="764:933" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="824:927" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="980:1153" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="1040:1147" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="1227:1383" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="1287:1377" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="1451:1803" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="1502:1625" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="1681:1771" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="1883:2060" ph="{...}" />
+            <marker date="1544203006945" expanded="true" signature="1943:2054" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="148" selection-start-line="8" selection-start-column="148" selection-end-line="8" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/f2/9abb3a9b/Thread.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="111" column="8" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/share/dotnet/sdk/2.1.403/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="4251" column="4" selection-start-line="4251" selection-start-column="4" selection-end-line="4251" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/TournamentController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <marker date="1544721256438" expanded="false" signature="6:171" ph="..." />
+            <marker date="1544721256438" expanded="true" signature="214:1996" ph="{...}" />
+            <marker date="1544721256438" expanded="true" signature="308:1994" ph="{...}" />
+            <marker date="1544721256438" expanded="true" signature="498:610" ph="{...}" />
+            <marker date="1544721256438" expanded="true" signature="670:1353" ph="{...}" />
+            <marker date="1544721256438" expanded="true" signature="755:824" ph="{...}" />
+            <marker date="1544721256438" expanded="true" signature="1005:1299" ph="{...}" />
+            <marker date="1544721256438" expanded="true" signature="1408:1536" ph="{...}" />
+            <marker date="1544721256438" expanded="true" signature="1599:1700" ph="{...}" />
+            <marker date="1544721256438" expanded="true" signature="1781:1874" ph="{...}" />
+            <marker date="1544721256438" expanded="true" signature="1942:1990" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Extensions/RaceQueries.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1544204953875" expanded="false" signature="6:71" ph="..." />
+            <marker date="1544204953875" expanded="true" signature="118:349" ph="{...}" />
+            <marker date="1544204953875" expanded="true" signature="154:347" ph="{...}" />
+            <marker date="1544204953875" expanded="true" signature="263:343" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stores/RaceStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+          <folding>
+            <marker date="1544290629872" expanded="false" signature="6:217" ph="..." />
+            <marker date="1544290629872" expanded="true" signature="255:1438" ph="{...}" />
+            <marker date="1544290629872" expanded="true" signature="287:450" ph="{...}" />
+            <marker date="1544290629872" expanded="true" signature="501:1436" ph="{...}" />
+            <marker date="1544290629872" expanded="true" signature="568:580" ph="{...}" />
+            <marker date="1544290629872" expanded="true" signature="614:766" ph="{...}" />
+            <marker date="1544290629872" expanded="true" signature="674:760" ph="{...}" />
+            <marker date="1544290629872" expanded="true" signature="837:1205" ph="{...}" />
+            <marker date="1544290629872" expanded="true" signature="897:1199" ph="{...}" />
+            <marker date="1544290629872" expanded="true" signature="942:1105" ph="{...}" />
+            <marker date="1544290629872" expanded="true" signature="1272:1432" ph="{...}" />
+            <marker date="1544290629872" expanded="true" signature="1332:1426" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Entity/RaceStanding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <marker date="1544114436599" expanded="true" signature="56:535" ph="{...}" />
+            <marker date="1544114436599" expanded="true" signature="86:533" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/store/Race.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/store/Async.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Entity/Race.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+          <folding>
+            <marker date="1544835943458" expanded="false" signature="6:118" ph="..." />
+            <marker date="1544835943458" expanded="true" signature="161:609" ph="{...}" />
+            <marker date="1544835943458" expanded="true" signature="183:607" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Entity/Racer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
+          <folding>
+            <marker date="1544835952865" expanded="false" signature="6:155" ph="..." />
+            <marker date="1544835952865" expanded="true" signature="198:521" ph="{...}" />
+            <marker date="1544835952865" expanded="true" signature="221:519" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Entity/Tournament.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
+          <folding>
+            <marker date="1544835958570" expanded="false" signature="6:118" ph="..." />
+            <marker date="1544835958570" expanded="true" signature="161:543" ph="{...}" />
+            <marker date="1544835958570" expanded="true" signature="189:541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Entity/Turn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <marker date="1544040356283" expanded="true" signature="56:671" ph="{...}" />
+            <marker date="1544040356283" expanded="true" signature="78:669" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Entity/TournamentStanding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1544114291057" expanded="true" signature="56:338" ph="{...}" />
+            <marker date="1544114291057" expanded="true" signature="92:336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/RaceController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <marker date="1543451136951" expanded="false" signature="6:118" ph="..." />
+            <marker date="1543451136951" expanded="true" signature="161:967" ph="{...}" />
+            <marker date="1543451136951" expanded="true" signature="249:965" ph="{...}" />
+            <marker date="1543451136951" expanded="true" signature="373:429" ph="{...}" />
+            <marker date="1543451136951" expanded="true" signature="485:657" ph="{...}" />
+            <marker date="1543451136951" expanded="true" signature="558:615" ph="{...}" />
+            <marker date="1543451136951" expanded="true" signature="749:961" ph="{...}" />
+            <marker date="1543451136951" expanded="true" signature="836:913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Racer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <marker date="1544839872473" expanded="true" signature="36:326" ph="{...}" />
+            <marker date="1544839872473" expanded="true" signature="59:324" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/components/Race.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/store/Tournament.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/store/Racers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/components/CreatePlayerModal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/components/ViewRace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="66" column="47" selection-start-line="66" selection-start-column="47" selection-end-line="66" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stores/RacerStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <marker date="1544841349480" expanded="true" signature="6:140" ph="..." />
+            <marker date="1544841349480" expanded="true" signature="178:797" ph="{...}" />
+            <marker date="1544841349480" expanded="true" signature="211:286" ph="{...}" />
+            <marker date="1544841349480" expanded="true" signature="339:795" ph="{...}" />
+            <marker date="1544841349480" expanded="true" signature="410:422" ph="{...}" />
+            <marker date="1544841349480" expanded="true" signature="463:660" ph="{...}" />
+            <marker date="1544841349480" expanded="true" signature="523:654" ph="{...}" />
+            <marker date="1544841349480" expanded="true" signature="700:791" ph="{...}" />
+            <marker date="1544841349480" expanded="true" signature="760:785" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stores/StoreFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+          <folding>
+            <marker date="1544841499816" expanded="true" signature="74:628" ph="{...}" />
+            <marker date="1544841499816" expanded="true" signature="109:233" ph="{...}" />
+            <marker date="1544841499816" expanded="true" signature="279:626" ph="{...}" />
+            <marker date="1544841499816" expanded="true" signature="382:420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/RacerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="81" selection-start-line="19" selection-start-column="81" selection-end-line="19" selection-end-column="81" />
+          <folding>
+            <marker date="1544841744433" expanded="true" signature="6:99" ph="..." />
+            <marker date="1544841744433" expanded="true" signature="142:636" ph="{...}" />
+            <marker date="1544841744433" expanded="true" signature="231:634" ph="{...}" />
+            <marker date="1544841744433" expanded="true" signature="348:406" ph="{...}" />
+            <marker date="1544841744433" expanded="true" signature="470:630" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

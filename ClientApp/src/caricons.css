@@ -1,0 +1,91 @@
+@font-face {
+  font-family: 'caricons';
+  src: url('font/caricons.eot?56243729');
+  src: url('font/caricons.eot?56243729#iefix') format('embedded-opentype'),
+       url('font/caricons.woff2?56243729') format('woff2'),
+       url('font/caricons.woff?56243729') format('woff'),
+       url('font/caricons.ttf?56243729') format('truetype'),
+       url('font/caricons.svg?56243729#caricons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+ 
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "caricons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+   
+  font-variant: normal;
+  text-transform: none;
+   
+  line-height: 1em;
+ 
+  margin-left: .2em;
+ 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ 
+.icon-hatchback-front:before { content: '\e800'; } 
+.icon-offroad-front:before { content: '\e801'; } 
+.icon-city-car-front:before { content: '\e802'; } 
+.icon-sportscar-front:before { content: '\e803'; } 
+.icon-sedan-front:before { content: '\e804'; } 
+.icon-estate-car-front:before { content: '\e805'; } 
+.icon-classic-car-front:before { content: '\e806'; } 
+.icon-minivan-front:before { content: '\e807'; } 
+.icon-hatchback-side:before { content: '\e808'; } 
+.icon-offroad-side:before { content: '\e809'; } 
+.icon-city-car-side:before { content: '\e80a'; } 
+.icon-sportscar-side:before { content: '\e80b'; } 
+.icon-sedan-side:before { content: '\e80c'; } 
+.icon-estate-car-side:before { content: '\e80d'; } 
+.icon-classic-car-side:before { content: '\e80e'; } 
+.icon-minivan-side:before { content: '\e80f'; } 
+.icon-steering-wheel:before { content: '\e810'; } 
+.icon-gear:before { content: '\e811'; } 
+.icon-wheel:before { content: '\e812'; } 
+.icon-brake:before { content: '\e813'; } 
+.icon-rim:before { content: '\e814'; } 
+.icon-tire:before { content: '\e815'; } 
+.icon-headlamp:before { content: '\e816'; } 
+.icon-speedometer:before { content: '\e817'; } 
+.icon-tools:before { content: '\e818'; } 
+.icon-engine:before { content: '\e819'; } 
+.icon-electric-motor:before { content: '\e81a'; } 
+.icon-turbocharger:before { content: '\e81b'; } 
+.icon-belt:before { content: '\e81c'; } 
+.icon-spark-plug:before { content: '\e81d'; } 
+.icon-handling:before { content: '\e81e'; } 
+.icon-muffler:before { content: '\e81f'; } 
+.icon-manual-transmission:before { content: '\e820'; } 
+.icon-automatic-transmission:before { content: '\e821'; } 
+.icon-transmission:before { content: '\e822'; } 
+.icon-radiator:before { content: '\e823'; } 
+.icon-air-filter:before { content: '\e824'; } 
+.icon-windshield:before { content: '\e825'; } 
+.icon-car-door:before { content: '\e826'; } 
+.icon-automotive-battery:before { content: '\e827'; } 
+.icon-key:before { content: '\e828'; } 
+.icon-immobiliser:before { content: '\e829'; } 
+.icon-smart-key:before { content: '\e82a'; } 
+.icon-drivers-license:before { content: '\e82b'; } 
+.icon-car-plate:before { content: '\e82c'; } 
+.icon-dashcam:before { content: '\e82d'; } 
+.icon-gps:before { content: '\e82e'; } 
+.icon-parking-sensor:before { content: '\e82f'; } 
+.icon-fuel:before { content: '\e830'; } 
+.icon-charging-station:before { content: '\e831'; } 
+.icon-first-aid-kit:before { content: '\e832'; } 
+.icon-wrecker:before { content: '\e833'; } 
+.icon-car-check:before { content: '\e834'; } 
+.icon-car-repair:before { content: '\e835'; } 
+.icon-car-wash:before { content: '\e836'; } 
+.icon-car-freshner:before { content: '\e837'; } 

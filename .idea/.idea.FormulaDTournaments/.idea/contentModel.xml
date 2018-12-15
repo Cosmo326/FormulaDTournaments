@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_FormulaDTournaments.1884546738.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="Bin" t="ExcludeRecursive" />
+      <e p="ClientApp" t="Include">
+        <e p=".gitignore" t="Include" />
+        <e p="node_modules" t="ExcludeRecursive">
+          <e p="@fortawesome/fontawesome-svg-core" t="IncludeRecursive" />
+          <e p="@fortawesome/pro-light-svg-icons" t="IncludeRecursive" />
+          <e p="@fortawesome/pro-regular-svg-icons" t="IncludeRecursive" />
+          <e p="@fortawesome/pro-solid-svg-icons" t="IncludeRecursive" />
+          <e p="@fortawesome/react-fontawesome" t="IncludeRecursive" />
+          <e p="fetch" t="IncludeRecursive" />
+          <e p="moment" t="IncludeRecursive" />
+          <e p="prop-types" t="IncludeRecursive" />
+          <e p="react" t="IncludeRecursive" />
+          <e p="react-dom" t="IncludeRecursive" />
+          <e p="react-redux" t="IncludeRecursive" />
+          <e p="react-router" t="IncludeRecursive" />
+          <e p="react-router-dom" t="IncludeRecursive" />
+          <e p="react-router-redux" t="IncludeRecursive" />
+          <e p="react-scripts" t="IncludeRecursive" />
+          <e p="redux" t="IncludeRecursive" />
+          <e p="redux-thunk" t="IncludeRecursive" />
+          <e p="rimraf" t="IncludeRecursive" />
+          <e p="semantic-ui-react" t="IncludeRecursive" />
+        </e>
+        <e p="package-lock.json" t="Include" />
+        <e p="package.json" t="Include" />
+        <e p="public" t="Include">
+          <e p="favicon.ico" t="Include" />
+          <e p="index.html" t="Include" />
+          <e p="manifest.json" t="Include" />
+        </e>
+        <e p="README.md" t="Include" />
+        <e p="src" t="Include">
+          <e p="App.js" t="Include" />
+          <e p="App.test.js" t="Include" />
+          <e p="caricons.css" t="Include" />
+          <e p="components" t="Include">
+            <e p="CreatePlayerModal.js" t="Include" />
+            <e p="CreateRace.js" t="Include" />
+            <e p="CreateTournament.js" t="Include" />
+            <e p="Home.js" t="Include" />
+            <e p="Layout.js" t="Include" />
+            <e p="NavMenu.js" t="Include" />
+            <e p="NumberSpinnerField.js" t="Include" />
+            <e p="Race.js" t="Include" />
+            <e p="RadioNumbering.js" t="Include" />
+            <e p="SearchField.js" t="Include" />
+            <e p="Tournament.js" t="Include" />
+            <e p="TurnModal.js" t="Include" />
+            <e p="VerificationField.js" t="Include" />
+            <e p="ViewRace.js" t="Include" />
+            <e p="ViewTournament.js" t="Include" />
+          </e>
+          <e p="font" t="Include">
+            <e p="caricons.eot" t="Include" />
+            <e p="caricons.svg" t="Include" />
+            <e p="caricons.ttf" t="Include" />
+            <e p="caricons.woff" t="Include" />
+            <e p="caricons.woff2" t="Include" />
+          </e>
+          <e p="history.js" t="Include" />
+          <e p="index.css" t="Include" />
+          <e p="index.js" t="Include" />
+          <e p="registerServiceWorker.js" t="Include" />
+          <e p="store" t="Include">
+            <e p="Async.js" t="Include" />
+            <e p="configureStore.js" t="Include" />
+            <e p="Race.js" t="Include" />
+            <e p="Racers.js" t="Include" />
+            <e p="Tournament.js" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Controllers" t="Include">
+        <e p="ControllerBase.cs" t="Include" />
+        <e p="RaceController.cs" t="Include" />
+        <e p="RacerController.cs" t="Include" />
+        <e p="TournamentController.cs" t="Include" />
+      </e>
+      <e p="Data" t="Include">
+        <e p="Entity" t="Include">
+          <e p="Configuration" t="Include">
+            <e p="RaceConfiguration.cs" t="Include" />
+            <e p="RacerConfiguration.cs" t="Include" />
+            <e p="RaceStandingConfiguration.cs" t="Include" />
+            <e p="TournamentConfiguration.cs" t="Include" />
+            <e p="TournamentStandingConfiguration.cs" t="Include" />
+            <e p="TurnConfiguration.cs" t="Include" />
+          </e>
+          <e p="Race.cs" t="Include" />
+          <e p="Racer.cs" t="Include" />
+          <e p="RaceStanding.cs" t="Include" />
+          <e p="Tournament.cs" t="Include" />
+          <e p="TournamentStanding.cs" t="Include" />
+          <e p="Turn.cs" t="Include" />
+        </e>
+        <e p="Extensions" t="Include">
+          <e p="RaceQueries.cs" t="Include" />
+          <e p="TournamentQueries.cs" t="Include" />
+          <e p="TournamentStandingQueries.cs" t="Include" />
+        </e>
+        <e p="FormulaDContext.cs" t="Include" />
+      </e>
+      <e p="FormulaDTournaments.csproj" t="IncludeRecursive" />
+      <e p="FormulaDTournaments.sln" t="IncludeFlat" />
+      <e p="Models" t="Include">
+        <e p="Racer.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="FormulaDTournaments.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Pages" t="Include">
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="Error.cshtml" t="Include" />
+        <e p="Error.cshtml.cs" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="SQLMigrations" t="Include">
+        <e p="DBSetup.sql" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="Stores" t="Include">
+        <e p="RacerStore.cs" t="Include" />
+        <e p="RaceStore.cs" t="Include" />
+        <e p="StoreBase.cs" t="Include" />
+        <e p="StoreFactory.cs" t="Include" />
+        <e p="TournamentStore.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
