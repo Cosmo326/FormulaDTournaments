@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
+    <e p="$USER_HOME$/.gitignore_global" t="IncludeRecursive" />
     <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_FormulaDTournaments.1884546738.00" t="ExcludeRecursive" />
     <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".git/info/exclude" t="IncludeRecursive" />
       <e p=".gitignore" t="Include" />
       <e p="appsettings.Development.json" t="Include" />
       <e p="appsettings.json" t="Include" />
@@ -114,7 +116,7 @@
       <e p="FormulaDTournaments.csproj" t="IncludeRecursive" />
       <e p="FormulaDTournaments.sln" t="IncludeFlat" />
       <e p="Models" t="Include">
-        <e p="Racer.cs" t="Include" />
+        <e p="RacerModel.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -135,6 +137,7 @@
       </e>
       <e p="SQLMigrations" t="Include">
         <e p="DBSetup.sql" t="Include" />
+        <e p="TestData.sql" t="Include" />
       </e>
       <e p="Startup.cs" t="Include" />
       <e p="Stores" t="Include">
@@ -143,6 +146,7 @@
         <e p="StoreBase.cs" t="Include" />
         <e p="StoreFactory.cs" t="Include" />
         <e p="TournamentStore.cs" t="Include" />
+        <e p="TurnStore.cs" t="Include" />
       </e>
     </e>
   </component>
