@@ -9,7 +9,7 @@ namespace FormulaDTournaments.Stores
   public interface IRacerStore
   {
     Racer GetByName(string name);
-    void SaveRacer(Racer racer);
+    Racer CreateRacer(string name);
   }
   
   public class RacerStore: StoreBase, IRacerStore
@@ -26,11 +26,15 @@ namespace FormulaDTournaments.Stores
       }
     }
 
-    public void SaveRacer(Racer racer)
+    public Racer CreateRacer(string name)
     {
       using (var ctx = new FormulaDContext(_options))
       {
-        
+        var racer = new Racer { Id = Guid.NewGuid(), Username = name };
+        ctx.Set<Racer>().Add(racer);
+
+        ctx.SaveChanges();
+        return racer;
       }
     }
   }

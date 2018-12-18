@@ -13,6 +13,7 @@ namespace FormulaDTournaments.Stores
     Race GetById(Guid id);
     Race CreateRace(Guid tournamentId, string name, int raceCount);
     IEnumerable<Race> GetByTournamentId(Guid tournamentId);
+    RaceStanding AddRaceStanding(RaceStanding raceStanding);
   }
   
   public class RaceStore: StoreBase, IRaceStore
@@ -55,6 +56,15 @@ namespace FormulaDTournaments.Stores
       {
         return ctx.Set<Race>().GetRacesByTournmentId(tournamentId)?.ToList();
       }
+    }
+
+    public RaceStanding AddRaceStanding(RaceStanding raceStanding)
+    {
+       using(var ctx = new FormulaDContext(_options)){
+         ctx.Set<RaceStanding>().Add(raceStanding);
+         ctx.SaveChanges();
+         return raceStanding;
+       }
     }
   }
 }

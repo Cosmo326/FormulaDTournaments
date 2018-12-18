@@ -1,7 +1,10 @@
+using System;
+
 namespace FormulaDTournaments.Models
 {
-  public class Racer
+  public class RacerModel
   {
+    public string RaceId { get; set; }
     public string Name { get; set; }
     public int Tire { get; set; }
     public int Brakes { get; set; }
